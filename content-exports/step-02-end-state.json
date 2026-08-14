@@ -15,7 +15,7 @@
         "updatedAt": "2026-08-10T19:24:09.042Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -46,7 +46,7 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/content_types/person"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/content_types/person"
       },
       "displayField": "internalName",
       "name": "👤 Person",
@@ -180,16 +180,16 @@
         "id": "link",
         "type": "ContentType",
         "createdAt": "2026-08-10T19:24:06.932Z",
-        "updatedAt": "2026-08-10T19:24:07.785Z",
+        "updatedAt": "2026-08-14T20:06:30.464Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2026-08-10T19:24:07.785Z",
+        "publishedVersion": 5,
+        "publishedAt": "2026-08-14T20:06:30.464Z",
         "firstPublishedAt": "2026-08-10T19:24:07.785Z",
         "createdBy": {
           "sys": {
@@ -205,8 +205,8 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "publishedCounter": 1,
-        "version": 2,
+        "publishedCounter": 3,
+        "version": 6,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -214,7 +214,7 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/content_types/link"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/content_types/link"
       },
       "displayField": "internalName",
       "name": "🔗 Link",
@@ -237,17 +237,6 @@
           "type": "Symbol",
           "localized": true,
           "required": true,
-          "validations": [
-          ],
-          "disabled": false,
-          "omitted": false
-        },
-        {
-          "id": "icon",
-          "name": "Icon",
-          "type": "Object",
-          "localized": false,
-          "required": false,
           "validations": [
           ],
           "disabled": false,
@@ -299,7 +288,7 @@
         "updatedAt": "2026-08-10T19:24:09.718Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -330,7 +319,7 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/content_types/blogPost"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/content_types/blogPost"
       },
       "displayField": "internalName",
       "name": "📄 Blog Post",
@@ -493,7 +482,7 @@
         "updatedAt": "2026-08-10T19:24:08.130Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -524,7 +513,7 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/content_types/mediaImage"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/content_types/mediaImage"
       },
       "displayField": "internalName",
       "name": "🖼️ Media: Image",
@@ -597,7 +586,7 @@
         "updatedAt": "2026-08-10T19:24:09.356Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -628,7 +617,7 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/content_types/organization"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/content_types/organization"
       },
       "displayField": "internalName",
       "name": "🏢 Organization",
@@ -717,16 +706,16 @@
         "id": "promotion",
         "type": "ContentType",
         "createdAt": "2026-08-10T19:24:07.446Z",
-        "updatedAt": "2026-08-10T19:24:10.036Z",
+        "updatedAt": "2026-08-14T20:53:45.483Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2026-08-10T19:24:10.036Z",
+        "publishedVersion": 9,
+        "publishedAt": "2026-08-14T20:53:45.483Z",
         "firstPublishedAt": "2026-08-10T19:24:10.036Z",
         "createdBy": {
           "sys": {
@@ -742,8 +731,8 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "publishedCounter": 1,
-        "version": 2,
+        "publishedCounter": 5,
+        "version": 10,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -751,7 +740,7 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/content_types/promotion"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/content_types/promotion"
       },
       "displayField": "internalName",
       "name": "📢 Promotion",
@@ -777,7 +766,6 @@
           "validations": [
             {
               "linkContentType": [
-                "mediaVideo",
                 "mediaImage"
               ]
             }
@@ -825,31 +813,21 @@
           "omitted": false
         },
         {
-          "id": "links",
-          "name": "Links",
-          "type": "Array",
+          "id": "link",
+          "name": "Link",
+          "type": "Link",
           "localized": false,
           "required": false,
           "validations": [
             {
-              "size": {
-                "max": 2
-              }
+              "linkContentType": [
+                "link"
+              ]
             }
           ],
           "disabled": false,
           "omitted": false,
-          "items": {
-            "type": "Link",
-            "validations": [
-              {
-                "linkContentType": [
-                  "link"
-                ]
-              }
-            ],
-            "linkType": "Entry"
-          }
+          "linkType": "Entry"
         }
       ]
     },
@@ -868,7 +846,7 @@
         "updatedAt": "2026-08-10T19:24:10.711Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -899,7 +877,7 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/content_types/microcopy"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/content_types/microcopy"
       },
       "displayField": "key",
       "name": "Microcopy",
@@ -947,7 +925,7 @@
         "updatedAt": "2026-08-10T19:24:10.378Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -978,7 +956,7 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/content_types/caseStudy"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/content_types/caseStudy"
       },
       "displayField": "internalName",
       "name": "📄 Case Study",
@@ -1163,7 +1141,7 @@
         },
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -1218,7 +1196,7 @@
             "linkType": "Space"
           }
         },
-        "version": 2,
+        "version": 6,
         "createdAt": "2026-08-10T19:24:07.878Z",
         "createdBy": {
           "sys": {
@@ -1227,7 +1205,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2026-08-10T19:24:12.397Z",
+        "updatedAt": "2026-08-14T20:06:31.183Z",
         "updatedBy": {
           "sys": {
             "id": "4TufL3NRElci5VhmPhD3P6",
@@ -1244,7 +1222,7 @@
         },
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -1260,11 +1238,6 @@
           "fieldId": "label",
           "widgetId": "singleLine",
           "widgetNamespace": "builtin"
-        },
-        {
-          "fieldId": "icon",
-          "widgetId": "mTgsS49vytEQZvNWn2hXO",
-          "widgetNamespace": "app"
         },
         {
           "fieldId": "internalTarget",
@@ -1315,7 +1288,7 @@
         },
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -1400,7 +1373,7 @@
         },
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -1466,7 +1439,7 @@
         },
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -1506,7 +1479,7 @@
             "linkType": "Space"
           }
         },
-        "version": 2,
+        "version": 10,
         "createdAt": "2026-08-10T19:24:10.146Z",
         "createdBy": {
           "sys": {
@@ -1515,7 +1488,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2026-08-10T19:24:12.399Z",
+        "updatedAt": "2026-08-14T20:53:45.946Z",
         "updatedBy": {
           "sys": {
             "id": "4TufL3NRElci5VhmPhD3P6",
@@ -1532,7 +1505,7 @@
         },
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -1560,8 +1533,8 @@
           "widgetNamespace": "builtin"
         },
         {
-          "fieldId": "links",
-          "widgetId": "entryLinksEditor",
+          "fieldId": "link",
+          "widgetId": "entryLinkEditor",
           "widgetNamespace": "builtin"
         }
       ]
@@ -1603,7 +1576,7 @@
         },
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -1659,7 +1632,7 @@
         },
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -1726,7 +1699,7 @@
         "updatedAt": "2026-08-10T19:38:23.247Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -1772,7 +1745,7 @@
             "id": "organization"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/1LF3xBIcVDi6XkMtxJxz2E"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/1LF3xBIcVDi6XkMtxJxz2E"
       },
       "fields": {
         "internalName": {
@@ -1859,7 +1832,7 @@
         "updatedAt": "2026-08-10T19:38:23.247Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -1905,7 +1878,7 @@
             "id": "organization"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/4X4RmHCdSRdnyQ8dW7wYWj"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/4X4RmHCdSRdnyQ8dW7wYWj"
       },
       "fields": {
         "internalName": {
@@ -1992,7 +1965,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -2038,7 +2011,7 @@
             "id": "organization"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/47OG3n9FrsmEvrdO7wopQ7"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/47OG3n9FrsmEvrdO7wopQ7"
       },
       "fields": {
         "internalName": {
@@ -2125,7 +2098,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -2171,7 +2144,7 @@
             "id": "organization"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/4dYdi2gi77j640H8pendbZ"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/4dYdi2gi77j640H8pendbZ"
       },
       "fields": {
         "internalName": {
@@ -2249,7 +2222,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -2295,7 +2268,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/7jxbTKLOaf8U3GgiBaOeew"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/7jxbTKLOaf8U3GgiBaOeew"
       },
       "fields": {
         "internalName": {
@@ -2337,7 +2310,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -2383,7 +2356,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/79dRGYsdVJLrituQN9qf1t"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/79dRGYsdVJLrituQN9qf1t"
       },
       "fields": {
         "internalName": {
@@ -2425,7 +2398,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -2471,7 +2444,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/aUvAuxm2tdUyoD5KA0410"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/aUvAuxm2tdUyoD5KA0410"
       },
       "fields": {
         "internalName": {
@@ -2513,7 +2486,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -2559,7 +2532,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/7EFsWQGuqvx6cq8kCa0ClJ"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/7EFsWQGuqvx6cq8kCa0ClJ"
       },
       "fields": {
         "internalName": {
@@ -2601,7 +2574,7 @@
         "updatedAt": "2026-08-10T19:38:23.249Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -2647,7 +2620,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/7ytHQymtUmTVfuabK4PxLv"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/7ytHQymtUmTVfuabK4PxLv"
       },
       "fields": {
         "internalName": {
@@ -2689,7 +2662,7 @@
         "updatedAt": "2026-08-10T19:38:23.247Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -2735,7 +2708,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/ZxzdAb7diC0SrkRuerN8U"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/ZxzdAb7diC0SrkRuerN8U"
       },
       "fields": {
         "internalName": {
@@ -2777,7 +2750,7 @@
         "updatedAt": "2026-08-10T19:38:23.249Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -2823,7 +2796,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/12WZXFF3Hv7vGy5IrpPMOR"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/12WZXFF3Hv7vGy5IrpPMOR"
       },
       "fields": {
         "internalName": {
@@ -2865,7 +2838,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -2911,7 +2884,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/4vUMZcniPP95P15dc3krMJ"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/4vUMZcniPP95P15dc3krMJ"
       },
       "fields": {
         "internalName": {
@@ -2953,7 +2926,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -2999,7 +2972,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/6HO6IUCpfptJjD9VptWvjC"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/6HO6IUCpfptJjD9VptWvjC"
       },
       "fields": {
         "internalName": {
@@ -3041,7 +3014,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -3087,7 +3060,7 @@
             "id": "person"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/7KyFjUc5ICz30CmN2NUBMv"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/7KyFjUc5ICz30CmN2NUBMv"
       },
       "fields": {
         "internalName": {
@@ -3190,7 +3163,7 @@
         "updatedAt": "2026-08-10T19:38:23.247Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -3236,7 +3209,7 @@
             "id": "person"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/33PZ195W3hZmZXWi9bUAYI"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/33PZ195W3hZmZXWi9bUAYI"
       },
       "fields": {
         "internalName": {
@@ -3339,7 +3312,7 @@
         "updatedAt": "2026-08-10T19:38:23.247Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -3385,7 +3358,7 @@
             "id": "person"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/01ImegJ5JCw67o1gGZYkVc"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/01ImegJ5JCw67o1gGZYkVc"
       },
       "fields": {
         "internalName": {
@@ -3488,7 +3461,7 @@
         "updatedAt": "2026-08-10T19:38:23.249Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -3534,7 +3507,7 @@
             "id": "caseStudy"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/CNVp165V09aWOVZAiPiw0"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/CNVp165V09aWOVZAiPiw0"
       },
       "fields": {
         "internalName": {
@@ -3897,7 +3870,7 @@
         "updatedAt": "2026-08-10T19:38:23.247Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -3943,7 +3916,7 @@
             "id": "caseStudy"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/477krfFmHbl2rfJ2goU8Ok"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/477krfFmHbl2rfJ2goU8Ok"
       },
       "fields": {
         "internalName": {
@@ -4306,7 +4279,7 @@
         "updatedAt": "2026-08-10T19:38:23.247Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -4352,7 +4325,7 @@
             "id": "caseStudy"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/4k3rtCBXv6LM6kzKK1aLEm"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/4k3rtCBXv6LM6kzKK1aLEm"
       },
       "fields": {
         "internalName": {
@@ -4715,7 +4688,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -4761,7 +4734,7 @@
             "id": "blogPost"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/3ZXzmcyT1rUvrUJbcQmTYQ"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/3ZXzmcyT1rUvrUJbcQmTYQ"
       },
       "fields": {
         "internalName": {
@@ -5075,7 +5048,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -5121,7 +5094,7 @@
             "id": "link"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/2vJ8XaAzQh7yBObxhpKDMz"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/2vJ8XaAzQh7yBObxhpKDMz"
       },
       "fields": {
         "internalName": {
@@ -5163,7 +5136,7 @@
         "updatedAt": "2026-08-10T19:38:23.249Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -5209,7 +5182,7 @@
             "id": "link"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/7wrCJvmGHMDnFscw187aC7"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/7wrCJvmGHMDnFscw187aC7"
       },
       "fields": {
         "internalName": {
@@ -5251,7 +5224,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -5297,7 +5270,7 @@
             "id": "link"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/63uPIhBgmBDpQFf8iQ8joD"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/63uPIhBgmBDpQFf8iQ8joD"
       },
       "fields": {
         "internalName": {
@@ -5339,7 +5312,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -5385,7 +5358,7 @@
             "id": "blogPost"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/KU03jtsJP5zH8pdaU2Mqw"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/KU03jtsJP5zH8pdaU2Mqw"
       },
       "fields": {
         "internalName": {
@@ -5699,7 +5672,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -5745,7 +5718,7 @@
             "id": "link"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/5XfL8Sm1oKYY9oEEU3dx0I"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/5XfL8Sm1oKYY9oEEU3dx0I"
       },
       "fields": {
         "internalName": {
@@ -5782,7 +5755,7 @@
         "updatedAt": "2026-08-10T19:38:23.249Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -5828,7 +5801,7 @@
             "id": "blogPost"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/6l6G5ta9yZmEl2UB6qFxMf"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/6l6G5ta9yZmEl2UB6qFxMf"
       },
       "fields": {
         "internalName": {
@@ -6139,16 +6112,16 @@
         "id": "3xO2RVSkkpGOEySqKxkViD",
         "type": "Entry",
         "createdAt": "2026-08-10T19:32:23.389Z",
-        "updatedAt": "2026-08-10T19:38:23.249Z",
+        "updatedAt": "2026-08-14T20:42:44.164Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2026-08-10T19:32:35.733Z",
+        "publishedVersion": 4,
+        "publishedAt": "2026-08-14T20:42:44.164Z",
         "firstPublishedAt": "2026-08-10T19:32:35.733Z",
         "createdBy": {
           "sys": {
@@ -6164,8 +6137,8 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "publishedCounter": 1,
-        "version": 3,
+        "publishedCounter": 2,
+        "version": 5,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -6175,8 +6148,8 @@
         },
         "fieldStatus": {
           "*": {
-            "de-DE": "changed",
-            "en-US": "changed"
+            "de-DE": "published",
+            "en-US": "published"
           }
         },
         "automationTags": [
@@ -6188,7 +6161,7 @@
             "id": "promotion"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/3xO2RVSkkpGOEySqKxkViD"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/3xO2RVSkkpGOEySqKxkViD"
       },
       "fields": {
         "internalName": {
@@ -6209,71 +6182,71 @@
         },
         "description": {
           "de-DE": {
-            "nodeType": "document",
             "data": {
             },
             "content": [
               {
-                "nodeType": "paragraph",
+                "data": {
+                },
                 "content": [
                   {
-                    "nodeType": "text",
-                    "value": "Contentful gibt Ihrem Team die Möglichkeit, ",
+                    "data": {
+                    },
                     "marks": [
                     ],
-                    "data": {
-                    }
+                    "value": "Contentful gibt Ihrem Team die Möglichkeit, ",
+                    "nodeType": "text"
                   },
                   {
-                    "nodeType": "text",
-                    "value": "Inhalte zu erstellen, zu verwalten und über jeden Kanal bereitzustellen",
+                    "data": {
+                    },
                     "marks": [
                       {
                         "type": "bold"
                       }
                     ],
-                    "data": {
-                    }
+                    "value": "Inhalte zu erstellen, zu verwalten und über jeden Kanal bereitzustellen",
+                    "nodeType": "text"
                   },
                   {
-                    "nodeType": "text",
-                    "value": " – schneller als je zuvor.",
+                    "data": {
+                    },
                     "marks": [
                     ],
-                    "data": {
-                    }
+                    "value": " – schneller als je zuvor.",
+                    "nodeType": "text"
                   }
                 ],
-                "data": {
-                }
+                "nodeType": "paragraph"
               },
               {
-                "nodeType": "paragraph",
+                "data": {
+                },
                 "content": [
                   {
-                    "nodeType": "text",
-                    "value": "Mit einer zusammensetzbaren Content-Plattform arbeiten Ihre Entwickler und Marketer Hand in Hand. ",
+                    "data": {
+                    },
                     "marks": [
                     ],
-                    "data": {
-                    }
+                    "value": "Mit einer zusammensetzbaren Content-Plattform arbeiten Ihre Entwickler und Marketer Hand in Hand. ",
+                    "nodeType": "text"
                   },
                   {
-                    "nodeType": "text",
-                    "value": "Keine Engpässe mehr. Keine Silos mehr.",
+                    "data": {
+                    },
                     "marks": [
                       {
                         "type": "italic"
                       }
                     ],
-                    "data": {
-                    }
+                    "value": "Keine Engpässe mehr. Keine Silos mehr.",
+                    "nodeType": "text"
                   }
                 ],
-                "data": {
-                }
+                "nodeType": "paragraph"
               }
-            ]
+            ],
+            "nodeType": "document"
           },
           "en-US": {
             "data": {
@@ -6343,23 +6316,14 @@
             "nodeType": "document"
           }
         },
-        "links": {
-          "en-US": [
-            {
-              "sys": {
-                "type": "Link",
-                "linkType": "Entry",
-                "id": "5lETp2UtSqIvpAUu4gjyNv"
-              }
-            },
-            {
-              "sys": {
-                "type": "Link",
-                "linkType": "Entry",
-                "id": "5XfL8Sm1oKYY9oEEU3dx0I"
-              }
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "5XfL8Sm1oKYY9oEEU3dx0I"
             }
-          ]
+          }
         }
       }
     },
@@ -6384,7 +6348,7 @@
         "updatedAt": "2026-08-10T19:38:23.246Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -6430,7 +6394,7 @@
             "id": "link"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/3WWLQ4Tg21eukRYMExFO4w"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/3WWLQ4Tg21eukRYMExFO4w"
       },
       "fields": {
         "internalName": {
@@ -6467,7 +6431,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -6513,7 +6477,7 @@
             "id": "microcopy"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/7kEByNqE6vvSR3X2lxAtx6"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/7kEByNqE6vvSR3X2lxAtx6"
       },
       "fields": {
         "key": {
@@ -6546,7 +6510,7 @@
         "updatedAt": "2026-08-10T19:38:23.248Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -6592,7 +6556,7 @@
             "id": "microcopy"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/7jhMkAGwLAwrAYRRx0ru3U"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/7jhMkAGwLAwrAYRRx0ru3U"
       },
       "fields": {
         "key": {
@@ -6622,16 +6586,16 @@
         "id": "3QS8gYiEo7stPAlXrrx2LW",
         "type": "Entry",
         "createdAt": "2026-08-10T19:32:23.404Z",
-        "updatedAt": "2026-08-10T19:38:23.248Z",
+        "updatedAt": "2026-08-14T20:42:44.141Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2026-08-10T19:32:36.479Z",
+        "publishedVersion": 4,
+        "publishedAt": "2026-08-14T20:42:44.141Z",
         "firstPublishedAt": "2026-08-10T19:32:36.479Z",
         "createdBy": {
           "sys": {
@@ -6647,8 +6611,8 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "publishedCounter": 1,
-        "version": 3,
+        "publishedCounter": 2,
+        "version": 5,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -6658,8 +6622,8 @@
         },
         "fieldStatus": {
           "*": {
-            "de-DE": "changed",
-            "en-US": "changed"
+            "de-DE": "published",
+            "en-US": "published"
           }
         },
         "automationTags": [
@@ -6671,7 +6635,7 @@
             "id": "promotion"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/3QS8gYiEo7stPAlXrrx2LW"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/3QS8gYiEo7stPAlXrrx2LW"
       },
       "fields": {
         "internalName": {
@@ -6692,71 +6656,71 @@
         },
         "description": {
           "de-DE": {
-            "nodeType": "document",
             "data": {
             },
             "content": [
               {
-                "nodeType": "paragraph",
+                "data": {
+                },
                 "content": [
                   {
-                    "nodeType": "text",
-                    "value": "Die weltweit führenden Marken vertrauen auf Contentful, um ",
+                    "data": {
+                    },
                     "marks": [
                     ],
-                    "data": {
-                    }
+                    "value": "Die weltweit führenden Marken vertrauen auf Contentful, um ",
+                    "nodeType": "text"
                   },
                   {
-                    "nodeType": "text",
-                    "value": "ihre Content-Operationen zu vereinheitlichen",
+                    "data": {
+                    },
                     "marks": [
                       {
                         "type": "bold"
                       }
                     ],
-                    "data": {
-                    }
+                    "value": "ihre Content-Operationen zu vereinheitlichen",
+                    "nodeType": "text"
                   },
                   {
-                    "nodeType": "text",
-                    "value": " und Erlebnisse zu liefern, die konvertieren.",
+                    "data": {
+                    },
                     "marks": [
                     ],
-                    "data": {
-                    }
+                    "value": " und Erlebnisse zu liefern, die konvertieren.",
+                    "nodeType": "text"
                   }
                 ],
-                "data": {
-                }
+                "nodeType": "paragraph"
               },
               {
-                "nodeType": "paragraph",
+                "data": {
+                },
                 "content": [
                   {
-                    "nodeType": "text",
-                    "value": "Schließen Sie sich Tausenden von Teams an, die veraltete CMS hinter sich gelassen haben. ",
+                    "data": {
+                    },
                     "marks": [
                     ],
-                    "data": {
-                    }
+                    "value": "Schließen Sie sich Tausenden von Teams an, die veraltete CMS hinter sich gelassen haben. ",
+                    "nodeType": "text"
                   },
                   {
-                    "nodeType": "text",
-                    "value": "Ihre Content-Infrastruktur beginnt hier.",
+                    "data": {
+                    },
                     "marks": [
                       {
                         "type": "italic"
                       }
                     ],
-                    "data": {
-                    }
+                    "value": "Ihre Content-Infrastruktur beginnt hier.",
+                    "nodeType": "text"
                   }
                 ],
-                "data": {
-                }
+                "nodeType": "paragraph"
               }
-            ]
+            ],
+            "nodeType": "document"
           },
           "en-US": {
             "data": {
@@ -6826,23 +6790,14 @@
             "nodeType": "document"
           }
         },
-        "links": {
-          "en-US": [
-            {
-              "sys": {
-                "type": "Link",
-                "linkType": "Entry",
-                "id": "5XfL8Sm1oKYY9oEEU3dx0I"
-              }
-            },
-            {
-              "sys": {
-                "type": "Link",
-                "linkType": "Entry",
-                "id": "3WWLQ4Tg21eukRYMExFO4w"
-              }
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "3WWLQ4Tg21eukRYMExFO4w"
             }
-          ]
+          }
         }
       }
     },
@@ -6867,7 +6822,7 @@
         "updatedAt": "2026-08-10T19:38:23.249Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -6913,7 +6868,7 @@
             "id": "link"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/5lETp2UtSqIvpAUu4gjyNv"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/5lETp2UtSqIvpAUu4gjyNv"
       },
       "fields": {
         "internalName": {
@@ -6956,16 +6911,16 @@
         "id": "126hWa8zg5uOpWEq7Vk5p3",
         "type": "Entry",
         "createdAt": "2026-08-10T19:32:23.441Z",
-        "updatedAt": "2026-08-10T19:38:23.248Z",
+        "updatedAt": "2026-08-14T20:42:44.096Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2026-08-10T19:32:36.133Z",
+        "publishedVersion": 4,
+        "publishedAt": "2026-08-14T20:42:44.096Z",
         "firstPublishedAt": "2026-08-10T19:32:36.133Z",
         "createdBy": {
           "sys": {
@@ -6981,8 +6936,8 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "publishedCounter": 1,
-        "version": 3,
+        "publishedCounter": 2,
+        "version": 5,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -6992,8 +6947,8 @@
         },
         "fieldStatus": {
           "*": {
-            "de-DE": "changed",
-            "en-US": "changed"
+            "de-DE": "published",
+            "en-US": "published"
           }
         },
         "automationTags": [
@@ -7005,7 +6960,7 @@
             "id": "promotion"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/126hWa8zg5uOpWEq7Vk5p3"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/126hWa8zg5uOpWEq7Vk5p3"
       },
       "fields": {
         "internalName": {
@@ -7026,79 +6981,79 @@
         },
         "description": {
           "de-DE": {
-            "nodeType": "document",
             "data": {
             },
             "content": [
               {
-                "nodeType": "paragraph",
+                "data": {
+                },
                 "content": [
                   {
-                    "nodeType": "text",
-                    "value": "On, die Schweizer Performance-Marke, nutzt Contentful, um ",
+                    "data": {
+                    },
                     "marks": [
                     ],
-                    "data": {
-                    }
+                    "value": "On, die Schweizer Performance-Marke, nutzt Contentful, um ",
+                    "nodeType": "text"
                   },
                   {
-                    "nodeType": "text",
-                    "value": "globale digitale Erlebnisse mit hoher Geschwindigkeit",
+                    "data": {
+                    },
                     "marks": [
                       {
                         "type": "bold"
                       }
                     ],
-                    "data": {
-                    }
+                    "value": "globale digitale Erlebnisse mit hoher Geschwindigkeit",
+                    "nodeType": "text"
                   },
                   {
-                    "nodeType": "text",
-                    "value": " zu ermöglichen – gleichzeitig über DTC-, Wholesale- und Markenkanäle hinweg.",
+                    "data": {
+                    },
                     "marks": [
                     ],
-                    "data": {
-                    }
+                    "value": " zu ermöglichen – gleichzeitig über DTC-, Wholesale- und Markenkanäle hinweg.",
+                    "nodeType": "text"
                   }
                 ],
-                "data": {
-                }
+                "nodeType": "paragraph"
               },
               {
-                "nodeType": "paragraph",
+                "data": {
+                },
                 "content": [
                   {
-                    "nodeType": "text",
-                    "value": "Erfahren Sie, wie eine modulare Content-Strategie On dabei geholfen hat, ",
+                    "data": {
+                    },
                     "marks": [
                     ],
-                    "data": {
-                    }
+                    "value": "Erfahren Sie, wie eine modulare Content-Strategie On dabei geholfen hat, ",
+                    "nodeType": "text"
                   },
                   {
-                    "nodeType": "text",
-                    "value": "Effizienzsteigerungen von über 40 %",
+                    "data": {
+                    },
                     "marks": [
                       {
                         "type": "italic"
                       }
                     ],
-                    "data": {
-                    }
+                    "value": "Effizienzsteigerungen von über 40 %",
+                    "nodeType": "text"
                   },
                   {
-                    "nodeType": "text",
-                    "value": " im Content-Betrieb zu erzielen.",
+                    "data": {
+                    },
                     "marks": [
                     ],
-                    "data": {
-                    }
+                    "value": " im Content-Betrieb zu erzielen.",
+                    "nodeType": "text"
                   }
                 ],
-                "data": {
-                }
+                "nodeType": "paragraph"
               }
-            ]
+            ],
+            "nodeType": "document"
           },
           "en-US": {
             "data": {
@@ -7176,23 +7131,14 @@
             "nodeType": "document"
           }
         },
-        "links": {
-          "en-US": [
-            {
-              "sys": {
-                "type": "Link",
-                "linkType": "Entry",
-                "id": "2vJ8XaAzQh7yBObxhpKDMz"
-              }
-            },
-            {
-              "sys": {
-                "type": "Link",
-                "linkType": "Entry",
-                "id": "3WWLQ4Tg21eukRYMExFO4w"
-              }
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "2vJ8XaAzQh7yBObxhpKDMz"
             }
-          ]
+          }
         }
       }
     },
@@ -7217,7 +7163,7 @@
         "updatedAt": "2026-08-10T19:32:39.374Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -7262,7 +7208,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/3GiQVrL5x9ZxiQzQivR40a"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/3GiQVrL5x9ZxiQzQivR40a"
       },
       "fields": {
         "internalName": {
@@ -7308,7 +7254,7 @@
         "updatedAt": "2026-08-10T19:32:37.869Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -7353,7 +7299,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/2RS7wR0DGCWX3wnTkLb1h2"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/2RS7wR0DGCWX3wnTkLb1h2"
       },
       "fields": {
         "internalName": {
@@ -7399,7 +7345,7 @@
         "updatedAt": "2026-08-10T19:38:23.247Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -7445,7 +7391,7 @@
             "id": "microcopy"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/3dZOeFEwam5PKWkwc68eGo"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/3dZOeFEwam5PKWkwc68eGo"
       },
       "fields": {
         "key": {
@@ -7478,7 +7424,7 @@
         "updatedAt": "2026-08-10T19:32:38.533Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -7523,7 +7469,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/4IKsJt9SliNf1lPwEe5YcN"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/4IKsJt9SliNf1lPwEe5YcN"
       },
       "fields": {
         "internalName": {
@@ -7569,7 +7515,7 @@
         "updatedAt": "2026-08-10T19:32:38.858Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -7614,7 +7560,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/1tuNFiC7SNU864bHXkDbc3"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/1tuNFiC7SNU864bHXkDbc3"
       },
       "fields": {
         "internalName": {
@@ -7660,7 +7606,7 @@
         "updatedAt": "2026-08-10T19:32:38.205Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -7705,7 +7651,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/3em1gIKTTwsnUymCZ9134Q"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/3em1gIKTTwsnUymCZ9134Q"
       },
       "fields": {
         "internalName": {
@@ -7751,7 +7697,7 @@
         "updatedAt": "2026-08-10T19:32:40.054Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -7796,7 +7742,7 @@
             "id": "mediaImage"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/entries/6RJB2URYwVcKBB2amJc2KR"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/entries/6RJB2URYwVcKBB2amJc2KR"
       },
       "fields": {
         "internalName": {
@@ -7836,7 +7782,7 @@
         "updatedAt": "2026-08-10T19:32:14.374Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -7872,7 +7818,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/10BqGbZg0OhQRkMPGOo6lK"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/10BqGbZg0OhQRkMPGOo6lK"
       },
       "fields": {
         "title": {
@@ -7915,7 +7861,7 @@
         "updatedAt": "2026-08-10T19:32:14.654Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -7951,7 +7897,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/4AsgJhCTgrELGEI2i2RCus"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/4AsgJhCTgrELGEI2i2RCus"
       },
       "fields": {
         "title": {
@@ -7994,7 +7940,7 @@
         "updatedAt": "2026-08-10T19:32:15.174Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8030,7 +7976,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/4Upf5Oh5Ab5fnbSCmg2Lwj"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/4Upf5Oh5Ab5fnbSCmg2Lwj"
       },
       "fields": {
         "title": {
@@ -8073,7 +8019,7 @@
         "updatedAt": "2026-08-10T19:32:14.935Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8109,7 +8055,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/4Vsq7ynMVJNSvz0mYbNvvC"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/4Vsq7ynMVJNSvz0mYbNvvC"
       },
       "fields": {
         "title": {
@@ -8152,7 +8098,7 @@
         "updatedAt": "2026-08-10T19:32:15.581Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8188,7 +8134,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/6YBN1mQ4sladVCUYdivN2E"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/6YBN1mQ4sladVCUYdivN2E"
       },
       "fields": {
         "title": {
@@ -8231,7 +8177,7 @@
         "updatedAt": "2026-08-10T19:32:15.849Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8267,7 +8213,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/4L9d5EqzYzbdRo2AQMFoR0"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/4L9d5EqzYzbdRo2AQMFoR0"
       },
       "fields": {
         "title": {
@@ -8310,7 +8256,7 @@
         "updatedAt": "2026-08-10T19:32:16.357Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8346,7 +8292,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/3eGOnpn0dtYUM5V3ZvdIpe"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/3eGOnpn0dtYUM5V3ZvdIpe"
       },
       "fields": {
         "title": {
@@ -8389,7 +8335,7 @@
         "updatedAt": "2026-08-10T19:32:16.103Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8425,7 +8371,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/7MWy2OoZ6bRJMQ8EeQc4yP"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/7MWy2OoZ6bRJMQ8EeQc4yP"
       },
       "fields": {
         "title": {
@@ -8468,7 +8414,7 @@
         "updatedAt": "2026-08-10T19:32:16.878Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8504,7 +8450,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/ql494onyQKOqn0xYnld94"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/ql494onyQKOqn0xYnld94"
       },
       "fields": {
         "title": {
@@ -8547,7 +8493,7 @@
         "updatedAt": "2026-08-10T19:32:17.166Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8583,7 +8529,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/42ClvGxOg95qwLSSuDtLyo"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/42ClvGxOg95qwLSSuDtLyo"
       },
       "fields": {
         "title": {
@@ -8626,7 +8572,7 @@
         "updatedAt": "2026-08-10T19:32:18.491Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8662,7 +8608,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/1sY0RBemn8qu4chA0kHeqE"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/1sY0RBemn8qu4chA0kHeqE"
       },
       "fields": {
         "title": {
@@ -8705,7 +8651,7 @@
         "updatedAt": "2026-08-10T19:32:18.158Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8741,7 +8687,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/4RJaTpyqurQQqQU1lMipTc"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/4RJaTpyqurQQqQU1lMipTc"
       },
       "fields": {
         "title": {
@@ -8784,7 +8730,7 @@
         "updatedAt": "2026-08-10T19:32:17.915Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8820,7 +8766,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/zFtOzFRvfiyPrGyPWmUrl"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/zFtOzFRvfiyPrGyPWmUrl"
       },
       "fields": {
         "title": {
@@ -8863,7 +8809,7 @@
         "updatedAt": "2026-08-10T19:32:17.665Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8899,7 +8845,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/4pbxgJHy3kvCmS6Y7S0Dz6"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/4pbxgJHy3kvCmS6Y7S0Dz6"
       },
       "fields": {
         "title": {
@@ -8942,7 +8888,7 @@
         "updatedAt": "2026-08-10T19:32:17.402Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -8978,7 +8924,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/5VeMf09DxYNyLPfalm7Lde"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/5VeMf09DxYNyLPfalm7Lde"
       },
       "fields": {
         "title": {
@@ -9021,7 +8967,7 @@
         "updatedAt": "2026-08-10T19:32:18.741Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -9057,7 +9003,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/27R8m5HHlVWZtjVXhPxT8V"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/27R8m5HHlVWZtjVXhPxT8V"
       },
       "fields": {
         "title": {
@@ -9100,7 +9046,7 @@
         "updatedAt": "2026-08-10T19:32:16.600Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -9136,7 +9082,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/3fnAnOXLDr3PQ3eyXjTQJl"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/3fnAnOXLDr3PQ3eyXjTQJl"
       },
       "fields": {
         "title": {
@@ -9179,7 +9125,7 @@
         "updatedAt": "2026-08-10T19:32:19.008Z",
         "environment": {
           "sys": {
-            "id": "master",
+            "id": "step-02-end-state",
             "type": "Link",
             "linkType": "Environment"
           }
@@ -9215,7 +9161,7 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/master/assets/3BR79tLIO7mAojafWyI4Ww"
+        "urn": "crn:contentful:::content:spaces/l1u7eepsyltr/environments/step-02-end-state/assets/3BR79tLIO7mAojafWyI4Ww"
       },
       "fields": {
         "title": {
@@ -9265,23 +9211,23 @@
           "sys": {
             "type": "Link",
             "linkType": "Environment",
-            "id": "master"
+            "id": "step-02-end-state"
           }
         },
-        "createdAt": "2026-08-10T19:36:04.403Z",
-        "updatedAt": "2026-08-10T19:36:04.403Z",
+        "createdAt": "2026-08-14T21:13:06.429Z",
+        "updatedAt": "2026-08-14T21:13:06.429Z",
         "createdBy": {
           "sys": {
             "type": "Link",
-            "id": "4TufL3NRElci5VhmPhD3P6",
-            "linkType": "User"
+            "id": "system",
+            "linkType": "System"
           }
         },
         "updatedBy": {
           "sys": {
             "type": "Link",
-            "id": "4TufL3NRElci5VhmPhD3P6",
-            "linkType": "User"
+            "id": "system",
+            "linkType": "System"
           }
         }
       }
@@ -9309,11 +9255,11 @@
           "sys": {
             "type": "Link",
             "linkType": "Environment",
-            "id": "master"
+            "id": "step-02-end-state"
           }
         },
-        "createdAt": "2026-08-10T19:18:13.267Z",
-        "updatedAt": "2026-08-10T19:18:13.267Z",
+        "createdAt": "2026-08-14T21:13:06.389Z",
+        "updatedAt": "2026-08-14T21:13:06.389Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -9331,141 +9277,11 @@
       }
     }
   ],
-  "webhooks": [
-  ],
-  "roles": [
+  "designTokens": [
     {
-      "name": "Author",
-      "description": "Allows editing of content",
-      "policies": [
-        {
-          "effect": "allow",
-          "actions": [
-            "create"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Entry"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "read"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Entry"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "update"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Entry"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "create"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Asset"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "read"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Asset"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "update"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Asset"
-                ]
-              }
-            ]
-          }
-        }
-      ],
-      "permissions": {
-        "ContentModel": [
-          "read"
-        ],
-        "Settings": [
-        ],
-        "ContentDelivery": [
-        ],
-        "Environments": [
-        ],
-        "EnvironmentAliases": [
-        ],
-        "Tags": [
-        ]
-      },
       "sys": {
-        "type": "Role",
-        "id": "0344SX2e7YIk5ThusUm3lv",
-        "version": 0,
+        "id": "text.xl",
+        "type": "DesignToken",
         "space": {
           "sys": {
             "type": "Link",
@@ -9473,6 +9289,15 @@
             "id": "l1u7eepsyltr"
           }
         },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:45.600Z",
+        "updatedAt": "2026-08-10T21:58:45.600Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -9480,7 +9305,6 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "createdAt": "2026-08-10T19:18:12Z",
         "updatedBy": {
           "sys": {
             "type": "Link",
@@ -9488,65 +9312,17 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "updatedAt": "2026-08-10T19:18:12Z"
+        "version": 2
+      },
+      "name": "text.xl",
+      "type": "DTCG.Dimension",
+      "metadata": {
       }
     },
     {
-      "name": "Editor",
-      "description": "Allows editing, publishing and archiving of content",
-      "policies": [
-        {
-          "effect": "allow",
-          "actions": "all",
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Entry"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": "all",
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Asset"
-                ]
-              }
-            ]
-          }
-        }
-      ],
-      "permissions": {
-        "ContentModel": [
-          "read"
-        ],
-        "Settings": [
-        ],
-        "ContentDelivery": [
-        ],
-        "Environments": [
-        ],
-        "EnvironmentAliases": [
-        ],
-        "Tags": [
-        ]
-      },
       "sys": {
-        "type": "Role",
-        "id": "0344SX2eCgznGZwSnUa5Yl",
-        "version": 0,
+        "id": "text.sm",
+        "type": "DesignToken",
         "space": {
           "sys": {
             "type": "Link",
@@ -9554,6 +9330,15 @@
             "id": "l1u7eepsyltr"
           }
         },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:45.231Z",
+        "updatedAt": "2026-08-10T21:58:45.231Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -9561,7 +9346,6 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "createdAt": "2026-08-10T19:18:12Z",
         "updatedBy": {
           "sys": {
             "type": "Link",
@@ -9569,239 +9353,17 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "updatedAt": "2026-08-10T19:18:12Z"
+        "version": 2
+      },
+      "name": "text.sm",
+      "type": "DTCG.Dimension",
+      "metadata": {
       }
     },
     {
-      "name": "Freelancer",
-      "description": "Allows only editing of content they created themselves",
-      "policies": [
-        {
-          "effect": "allow",
-          "actions": [
-            "create"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Entry"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "create"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Asset"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "read"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Entry"
-                ]
-              },
-              {
-                "equals": [
-                  {
-                    "doc": "sys.createdBy.sys.id"
-                  },
-                  "User.current()"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "update"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Entry"
-                ]
-              },
-              {
-                "equals": [
-                  {
-                    "doc": "sys.createdBy.sys.id"
-                  },
-                  "User.current()"
-                ]
-              },
-              {
-                "paths": [
-                  {
-                    "doc": "fields.%.%"
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "delete"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Entry"
-                ]
-              },
-              {
-                "equals": [
-                  {
-                    "doc": "sys.createdBy.sys.id"
-                  },
-                  "User.current()"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "read"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Asset"
-                ]
-              },
-              {
-                "equals": [
-                  {
-                    "doc": "sys.createdBy.sys.id"
-                  },
-                  "User.current()"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "update"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Asset"
-                ]
-              },
-              {
-                "equals": [
-                  {
-                    "doc": "sys.createdBy.sys.id"
-                  },
-                  "User.current()"
-                ]
-              },
-              {
-                "paths": [
-                  {
-                    "doc": "fields.%.%"
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "delete"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Asset"
-                ]
-              },
-              {
-                "equals": [
-                  {
-                    "doc": "sys.createdBy.sys.id"
-                  },
-                  "User.current()"
-                ]
-              }
-            ]
-          }
-        }
-      ],
-      "permissions": {
-        "ContentModel": [
-          "read"
-        ],
-        "Settings": [
-        ],
-        "ContentDelivery": [
-        ],
-        "Environments": [
-        ],
-        "EnvironmentAliases": [
-        ],
-        "Tags": [
-        ]
-      },
       "sys": {
-        "type": "Role",
-        "id": "0344SX2f0s57J5EDX0a2Kl",
-        "version": 0,
+        "id": "text.md",
+        "type": "DesignToken",
         "space": {
           "sys": {
             "type": "Link",
@@ -9809,6 +9371,15 @@
             "id": "l1u7eepsyltr"
           }
         },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:44.861Z",
+        "updatedAt": "2026-08-10T21:58:44.861Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -9816,7 +9387,6 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "createdAt": "2026-08-10T19:18:12Z",
         "updatedBy": {
           "sys": {
             "type": "Link",
@@ -9824,119 +9394,17 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "updatedAt": "2026-08-10T19:18:12Z"
+        "version": 2
+      },
+      "name": "text.md",
+      "type": "DTCG.Dimension",
+      "metadata": {
       }
     },
     {
-      "name": "Translator",
-      "description": "Allows editing of localized fields in the specified language",
-      "policies": [
-        {
-          "effect": "allow",
-          "actions": [
-            "read"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Entry"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "read"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Asset"
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "update"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Entry"
-                ]
-              },
-              {
-                "paths": [
-                  {
-                    "doc": "fields.%.%"
-                  }
-                ]
-              }
-            ]
-          }
-        },
-        {
-          "effect": "allow",
-          "actions": [
-            "update"
-          ],
-          "constraint": {
-            "and": [
-              {
-                "equals": [
-                  {
-                    "doc": "sys.type"
-                  },
-                  "Asset"
-                ]
-              },
-              {
-                "paths": [
-                  {
-                    "doc": "fields.%.%"
-                  }
-                ]
-              }
-            ]
-          }
-        }
-      ],
-      "permissions": {
-        "ContentModel": [
-          "read"
-        ],
-        "Settings": [
-        ],
-        "ContentDelivery": [
-        ],
-        "Environments": [
-        ],
-        "EnvironmentAliases": [
-        ],
-        "Tags": [
-        ]
-      },
       "sys": {
-        "type": "Role",
-        "id": "0344SX2fuBi9QDXXV5agNo",
-        "version": 0,
+        "id": "text.lg",
+        "type": "DesignToken",
         "space": {
           "sys": {
             "type": "Link",
@@ -9944,6 +9412,15 @@
             "id": "l1u7eepsyltr"
           }
         },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:44.477Z",
+        "updatedAt": "2026-08-10T21:58:44.477Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -9951,7 +9428,6 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "createdAt": "2026-08-10T19:18:12Z",
         "updatedBy": {
           "sys": {
             "type": "Link",
@@ -9959,8 +9435,2668 @@
             "id": "4TufL3NRElci5VhmPhD3P6"
           }
         },
-        "updatedAt": "2026-08-10T19:18:12Z"
+        "version": 2
+      },
+      "name": "text.lg",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "spacing.xs",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:44.083Z",
+        "updatedAt": "2026-08-10T21:58:44.083Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "spacing.xs",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "spacing.xl",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:43.727Z",
+        "updatedAt": "2026-08-10T21:58:43.727Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "spacing.xl",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "spacing.sm",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:43.395Z",
+        "updatedAt": "2026-08-10T21:58:43.395Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "spacing.sm",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "spacing.md",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:43.065Z",
+        "updatedAt": "2026-08-10T21:58:43.065Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "spacing.md",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "spacing.lg",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:42.729Z",
+        "updatedAt": "2026-08-10T21:58:42.729Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "spacing.lg",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "radius.sm",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:42.395Z",
+        "updatedAt": "2026-08-10T21:58:42.395Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "radius.sm",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "radius.md",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:42.056Z",
+        "updatedAt": "2026-08-10T21:58:42.056Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "radius.md",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "radius.lg",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:41.669Z",
+        "updatedAt": "2026-08-10T21:58:41.669Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "radius.lg",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.tertiaryForeground",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:41.297Z",
+        "updatedAt": "2026-08-10T21:58:41.297Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.tertiaryForeground",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.tertiary",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:40.938Z",
+        "updatedAt": "2026-08-10T21:58:40.938Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.tertiary",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.secondaryForeground",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:40.580Z",
+        "updatedAt": "2026-08-10T21:58:40.580Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.secondaryForeground",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.secondary",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:40.201Z",
+        "updatedAt": "2026-08-10T21:58:40.201Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.secondary",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.primaryForeground",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:39.822Z",
+        "updatedAt": "2026-08-10T21:58:39.822Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.primaryForeground",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.primary",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:39.436Z",
+        "updatedAt": "2026-08-10T21:58:39.436Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.primary",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.muted",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:39.030Z",
+        "updatedAt": "2026-08-10T21:58:39.030Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.muted",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.foreground",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:38.051Z",
+        "updatedAt": "2026-08-10T21:58:38.051Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.foreground",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.border",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:37.580Z",
+        "updatedAt": "2026-08-10T21:58:37.580Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.border",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.background",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:36.931Z",
+        "updatedAt": "2026-08-10T21:58:36.931Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.background",
+      "type": "DTCG.Color",
+      "metadata": {
       }
     }
+  ],
+  "components": [
+    {
+      "sys": {
+        "id": "Text",
+        "type": "Component",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "version": 9,
+        "variant": "default",
+        "variantType": "default",
+        "variantDimension": "default",
+        "createdAt": "2026-08-10T21:58:46.576Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedAt": "2026-08-14T20:56:49.294Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "automationTags": [
+        ]
+      },
+      "name": "Text",
+      "description": "Simple text display component with configurable color and size",
+      "viewports": [
+        {
+          "id": "all-sizes",
+          "query": "*",
+          "displayName": "All Sizes",
+          "previewSize": "100%"
+        }
+      ],
+      "contentProperties": [
+        {
+          "name": "Text",
+          "required": false,
+          "type": "String",
+          "id": "text"
+        }
+      ],
+      "designProperties": [
+        {
+          "id": "color",
+          "name": "Color",
+          "description": "Text color — select from available semantic color tokens",
+          "type": "DTCG.Color",
+          "fallbackValue": {
+            "type": "DesignToken",
+            "value": "color.foreground"
+          },
+          "allowedResources": [
+            {
+              "type": "DesignToken",
+              "value": "color.tertiaryForeground"
+            },
+            {
+              "type": "DesignToken",
+              "value": "color.secondaryForeground"
+            },
+            {
+              "type": "DesignToken",
+              "value": "color.primaryForeground"
+            },
+            {
+              "type": "DesignToken",
+              "value": "color.foreground"
+            }
+          ]
+        },
+        {
+          "id": "size",
+          "name": "Size",
+          "description": "Text size — small, medium, large, or extra-large",
+          "type": "DTCG.Dimension",
+          "fallbackValue": {
+            "type": "DesignToken",
+            "value": "text.md"
+          },
+          "allowedResources": [
+            {
+              "type": "DesignToken",
+              "value": "text.xl"
+            },
+            {
+              "type": "DesignToken",
+              "value": "text.sm"
+            },
+            {
+              "type": "DesignToken",
+              "value": "text.md"
+            },
+            {
+              "type": "DesignToken",
+              "value": "text.lg"
+            }
+          ]
+        },
+        {
+          "id": "as",
+          "name": "Type",
+          "type": "String",
+          "fallbackValue": {
+            "type": "ManualDesignValue",
+            "value": "p"
+          },
+          "validations": [
+            {
+              "regexp": {
+                "pattern": "^(p|span|h1|h2|h3)$"
+              }
+            }
+          ]
+        }
+      ],
+      "slots": [
+      ],
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ],
+        "annotations": {
+          "Component": [
+            {
+              "sys": {
+                "id": "Contentful:CodedImplementation",
+                "type": "Link",
+                "linkType": "Annotation"
+              }
+            }
+          ]
+        }
+      },
+      "dataAssemblies": [
+        {
+          "sys": {
+            "type": "ResourceLink",
+            "linkType": "Contentful:DataAssembly",
+            "urn": "crn:contentful:::experience:spaces/$self/environments/$self/dataAssemblies/2XJOKGeAU6qs6ZjyuZ6k7r"
+          }
+        }
+      ]
+    },
+    {
+      "sys": {
+        "id": "Image",
+        "type": "Component",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "version": 6,
+        "variant": "default",
+        "variantType": "default",
+        "variantDimension": "default",
+        "createdAt": "2026-08-10T21:58:46.354Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedAt": "2026-08-14T20:54:08.971Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "automationTags": [
+        ]
+      },
+      "name": "Image",
+      "description": "Image primitive for displaying images with optional border radius styling",
+      "viewports": [
+        {
+          "id": "all-sizes",
+          "query": "*",
+          "displayName": "All Sizes",
+          "previewSize": "100%"
+        }
+      ],
+      "contentProperties": [
+        {
+          "name": "Alt",
+          "required": false,
+          "type": "String",
+          "id": "alt"
+        },
+        {
+          "name": "Src",
+          "required": false,
+          "type": "String",
+          "id": "src"
+        }
+      ],
+      "designProperties": [
+        {
+          "id": "radius",
+          "name": "Radius",
+          "description": "Border radius — sm, md, or lg rounded corners",
+          "type": "String",
+          "validations": [
+            {
+              "regexp": {
+                "pattern": "^(sm|md|lg)$"
+              }
+            }
+          ]
+        }
+      ],
+      "slots": [
+      ],
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ],
+        "annotations": {
+          "Component": [
+            {
+              "sys": {
+                "id": "Contentful:CodedImplementation",
+                "type": "Link",
+                "linkType": "Annotation"
+              }
+            }
+          ]
+        }
+      },
+      "dataAssemblies": [
+        {
+          "sys": {
+            "type": "ResourceLink",
+            "linkType": "Contentful:DataAssembly",
+            "urn": "crn:contentful:::experience:spaces/$self/environments/$self/dataAssemblies/6dLrQE1wwiWpDnw6TS661e"
+          }
+        }
+      ]
+    },
+    {
+      "sys": {
+        "id": "Button",
+        "type": "Component",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "version": 4,
+        "variant": "default",
+        "variantType": "default",
+        "variantDimension": "default",
+        "createdAt": "2026-08-11T22:10:14.734Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedAt": "2026-08-14T20:48:24.042Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "automationTags": [
+        ]
+      },
+      "name": "Button",
+      "description": "Interactive button component with customizable size, color, and text label",
+      "viewports": [
+        {
+          "id": "all-sizes",
+          "query": "*",
+          "displayName": "All Sizes",
+          "previewSize": "100%"
+        }
+      ],
+      "contentProperties": [
+        {
+          "name": "Label",
+          "required": false,
+          "type": "String",
+          "id": "label"
+        },
+        {
+          "name": "Url",
+          "required": false,
+          "type": "String",
+          "id": "url"
+        }
+      ],
+      "designProperties": [
+        {
+          "id": "color",
+          "name": "Color",
+          "description": "Button color — references design tokens like primary, secondary, tertiary, or semantic variants",
+          "type": "DTCG.Color",
+          "fallbackValue": {
+            "type": "DesignToken",
+            "value": "color.primary"
+          }
+        },
+        {
+          "id": "size",
+          "name": "Size",
+          "description": "Button size variant",
+          "type": "String",
+          "fallbackValue": {
+            "type": "ManualDesignValue",
+            "value": "md"
+          },
+          "validations": [
+            {
+              "regexp": {
+                "pattern": "^(sm|md|lg)$"
+              }
+            }
+          ]
+        }
+      ],
+      "slots": [
+      ],
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ],
+        "annotations": {
+          "Component": [
+            {
+              "sys": {
+                "id": "Contentful:CodedImplementation",
+                "type": "Link",
+                "linkType": "Annotation"
+              }
+            }
+          ]
+        }
+      },
+      "dataAssemblies": [
+        {
+          "sys": {
+            "type": "ResourceLink",
+            "linkType": "Contentful:DataAssembly",
+            "urn": "crn:contentful:::experience:spaces/$self/environments/$self/dataAssemblies/2ItnNpx7RuHBIBcjWJCh6F"
+          }
+        }
+      ]
+    },
+    {
+      "sys": {
+        "id": "Flex",
+        "type": "Component",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "version": 4,
+        "variant": "default",
+        "variantType": "default",
+        "variantDimension": "default",
+        "createdAt": "2026-08-10T21:58:46.159Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedAt": "2026-08-14T20:44:24.575Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "automationTags": [
+        ]
+      },
+      "name": "Flex",
+      "description": "Flexible layout container with configurable direction and spacing between items",
+      "viewports": [
+        {
+          "id": "all-sizes",
+          "query": "*",
+          "displayName": "All Sizes",
+          "previewSize": "100%"
+        }
+      ],
+      "contentProperties": [
+      ],
+      "designProperties": [
+        {
+          "id": "direction",
+          "name": "Direction",
+          "description": "Flex layout direction — horizontal (row) or vertical (column)",
+          "type": "String",
+          "fallbackValue": {
+            "type": "ManualDesignValue",
+            "value": "row"
+          },
+          "validations": [
+            {
+              "regexp": {
+                "pattern": "^(row|column)$"
+              }
+            }
+          ]
+        },
+        {
+          "id": "spacing",
+          "name": "Spacing",
+          "description": "Space between flex items — accepts spacing scale names (xs, sm, md, lg, xl) or CSS units",
+          "type": "DTCG.Dimension",
+          "allowedResources": [
+            {
+              "type": "DesignToken",
+              "value": "spacing.xs"
+            },
+            {
+              "type": "DesignToken",
+              "value": "spacing.xl"
+            },
+            {
+              "type": "DesignToken",
+              "value": "spacing.sm"
+            },
+            {
+              "type": "DesignToken",
+              "value": "spacing.md"
+            },
+            {
+              "type": "DesignToken",
+              "value": "spacing.lg"
+            }
+          ]
+        },
+        {
+          "id": "backgroundColor",
+          "name": "Background Color",
+          "type": "DTCG.Color",
+          "allowedResources": [
+            {
+              "type": "DesignToken",
+              "value": "color.tertiary"
+            },
+            {
+              "type": "DesignToken",
+              "value": "color.secondary"
+            },
+            {
+              "type": "DesignToken",
+              "value": "color.primary"
+            },
+            {
+              "type": "DesignToken",
+              "value": "color.muted"
+            },
+            {
+              "type": "DesignToken",
+              "value": "color.border"
+            },
+            {
+              "type": "DesignToken",
+              "value": "color.background"
+            }
+          ]
+        }
+      ],
+      "slots": [
+        {
+          "id": "children",
+          "name": "Children",
+          "required": false,
+          "validations": [
+          ]
+        }
+      ],
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ],
+        "annotations": {
+          "Component": [
+            {
+              "sys": {
+                "id": "Contentful:CodedImplementation",
+                "type": "Link",
+                "linkType": "Annotation"
+              }
+            }
+          ]
+        }
+      },
+      "dataAssemblies": [
+      ]
+    }
+  ],
+  "experienceTemplates": [
+    {
+      "sys": {
+        "id": "page",
+        "type": "ExperienceTemplate",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "version": 2,
+        "variant": "default",
+        "variantType": "default",
+        "variantDimension": "default",
+        "createdAt": "2026-08-11T18:43:17.488Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedAt": "2026-08-11T18:43:28.663Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "automationTags": [
+        ]
+      },
+      "name": "Page",
+      "description": "",
+      "viewports": [
+        {
+          "id": "_",
+          "query": "*",
+          "displayName": "Default",
+          "previewSize": "1024px"
+        }
+      ],
+      "contentProperties": [
+      ],
+      "designProperties": [
+      ],
+      "slots": [
+        {
+          "id": "content",
+          "name": "Content",
+          "required": false,
+          "validations": [
+          ]
+        }
+      ],
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ],
+        "annotations": {
+          "ExperienceTemplate": [
+            {
+              "sys": {
+                "id": "Contentful:CodedImplementation",
+                "type": "Link",
+                "linkType": "Annotation"
+              }
+            }
+          ]
+        }
+      },
+      "dataAssemblies": [
+      ]
+    }
+  ],
+  "dataAssemblies": [
+    {
+      "sys": {
+        "id": "1bbJiIiY7ODceKipo3gTjn",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Text",
+            "required": true,
+            "type": "TypeRef",
+            "ref": {
+              "sys": {
+                "type": "ResourceLink",
+                "linkType": "Contentful:DataAssembly",
+                "urn": "crn:contentful:::experience:spaces/$self/environments/$self/dataAssemblies/2XJOKGeAU6qs6ZjyuZ6k7r"
+              }
+            },
+            "id": "cp_Zv8Vteyp2O"
+          },
+          {
+            "name": "Button",
+            "required": true,
+            "type": "TypeRef",
+            "ref": {
+              "sys": {
+                "type": "ResourceLink",
+                "linkType": "Contentful:DataAssembly",
+                "urn": "crn:contentful:::experience:spaces/$self/environments/$self/dataAssemblies/2ItnNpx7RuHBIBcjWJCh6F"
+              }
+            },
+            "id": "cp_6sCbKOy82d"
+          },
+          {
+            "name": "Image",
+            "required": true,
+            "type": "TypeRef",
+            "ref": {
+              "sys": {
+                "type": "ResourceLink",
+                "linkType": "Contentful:DataAssembly",
+                "urn": "crn:contentful:::experience:spaces/$self/environments/$self/dataAssemblies/6dLrQE1wwiWpDnw6TS661e"
+              }
+            },
+            "id": "cp_QWpI5nTXU5"
+          }
+        ],
+        "version": 3,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-14T20:57:11.455Z",
+        "updatedAt": "2026-08-14T21:08:24.461Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Default",
+      "description": "Default data assembly",
+      "parameters": {
+        "p_AnAyAcb8G_": {
+          "name": "Parameter 1",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "promotion"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "r_UFpoQ2qnGb": {
+          "source": "Contentful:DataAssembly",
+          "dataAssembly": {
+            "sys": {
+              "type": "ResourceLink",
+              "linkType": "Contentful:DataAssembly",
+              "urn": "crn:contentful:::experience:spaces/$self/environments/$self/dataAssemblies/2ItnNpx7RuHBIBcjWJCh6F"
+            }
+          },
+          "parameters": {
+            "p_8k0d3SEL9q": "$parameters/p_AnAyAcb8G_"
+          }
+        },
+        "r_mqOA9a_wLv": {
+          "source": "Contentful:DataAssembly",
+          "dataAssembly": {
+            "sys": {
+              "type": "ResourceLink",
+              "linkType": "Contentful:DataAssembly",
+              "urn": "crn:contentful:::experience:spaces/$self/environments/$self/dataAssemblies/6dLrQE1wwiWpDnw6TS661e"
+            }
+          },
+          "parameters": {
+            "p_c1nOXcBT3W": "$parameters/p_AnAyAcb8G_"
+          }
+        },
+        "r_u4ZoDhr3P7": {
+          "source": "Contentful:DataAssembly",
+          "dataAssembly": {
+            "sys": {
+              "type": "ResourceLink",
+              "linkType": "Contentful:DataAssembly",
+              "urn": "crn:contentful:::experience:spaces/$self/environments/$self/dataAssemblies/2XJOKGeAU6qs6ZjyuZ6k7r"
+            }
+          },
+          "parameters": {
+            "p_1vEOL7BfMz": "$parameters/p_AnAyAcb8G_"
+          }
+        }
+      },
+      "return": {
+        "cp_6sCbKOy82d": {
+          "$from": "$resolvers/r_UFpoQ2qnGb"
+        },
+        "cp_QWpI5nTXU5": {
+          "$from": "$resolvers/r_mqOA9a_wLv"
+        },
+        "cp_Zv8Vteyp2O": {
+          "$from": "$resolvers/r_u4ZoDhr3P7"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2XJOKGeAU6qs6ZjyuZ6k7r",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Text",
+            "required": false,
+            "type": "String",
+            "id": "text"
+          }
+        ],
+        "version": 1,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-14T20:56:48.793Z",
+        "updatedAt": "2026-08-14T20:56:48.793Z",
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Default",
+      "description": "Default data assembly",
+      "parameters": {
+        "p_1vEOL7BfMz": {
+          "name": "Parameter 1",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "blogPost",
+                "caseStudy",
+                "microcopy",
+                "person",
+                "promotion"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "r_TE4FdlLfJZ": {
+          "source": "Contentful:GraphQL",
+          "query": "query ($id: ID!) {\n  _node(id: $id) {\n    __typename\n    ... on BlogPost {\n      title\n    }\n    ... on CaseStudy {\n      title\n    }\n    ... on Microcopy {\n      value\n    }\n    ... on Person {\n      firstName\n    }\n    ... on Promotion {\n      name\n    }\n  }\n}",
+          "parameters": {
+            "id": "$parameters/p_1vEOL7BfMz"
+          }
+        }
+      },
+      "return": {
+        "text": {
+          "$from": {
+            "source": "$resolvers/r_TE4FdlLfJZ/_node",
+            "select": {
+              "$on": {
+                "type": {
+                  "Person": "firstName",
+                  "BlogPost": "title",
+                  "CaseStudy": "title",
+                  "Microcopy": "value",
+                  "Promotion": "name"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6dLrQE1wwiWpDnw6TS661e",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Alt",
+            "required": false,
+            "type": "String",
+            "id": "alt"
+          },
+          {
+            "name": "Src",
+            "required": false,
+            "type": "String",
+            "id": "src"
+          }
+        ],
+        "version": 2,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-14T20:39:30.084Z",
+        "updatedAt": "2026-08-14T20:54:08.517Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Default",
+      "description": "Default data assembly",
+      "parameters": {
+        "p_c1nOXcBT3W": {
+          "name": "Parameter 1",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "blogPost",
+                "caseStudy",
+                "mediaImage",
+                "organization",
+                "person",
+                "promotion"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "r_NsydWtCAoP": {
+          "source": "Contentful:GraphQL",
+          "query": "query ($id: ID!) {\n  _node(id: $id) {\n    __typename\n    ... on BlogPost {\n      editorialImage {\n        altText\n        image {\n          url\n        }\n      }\n    }\n    ... on CaseStudy {\n      editorialImage {\n        altText\n        image {\n          url\n        }\n      }\n    }\n    ... on MediaImage {\n      altText\n      image {\n        url\n      }\n    }\n    ... on Organization {\n      logo {\n        url\n      }\n      name\n    }\n    ... on Person {\n      avatar {\n        altText\n        image {\n          url\n        }\n      }\n    }\n    ... on Promotion {\n      editorialMedia {\n        altText\n        image {\n          url\n        }\n      }\n    }\n  }\n}",
+          "parameters": {
+            "id": "$parameters/p_c1nOXcBT3W"
+          }
+        }
+      },
+      "return": {
+        "alt": {
+          "$from": {
+            "source": "$resolvers/r_NsydWtCAoP/_node",
+            "select": {
+              "$on": {
+                "type": {
+                  "Person": "avatar/altText",
+                  "BlogPost": "editorialImage/altText",
+                  "CaseStudy": "editorialImage/altText",
+                  "Promotion": "editorialMedia/altText",
+                  "MediaImage": "altText",
+                  "Organization": "name"
+                }
+              }
+            }
+          }
+        },
+        "src": {
+          "$from": {
+            "source": "$resolvers/r_NsydWtCAoP/_node",
+            "select": {
+              "$on": {
+                "type": {
+                  "Person": "avatar/image/url",
+                  "BlogPost": "editorialImage/image/url",
+                  "CaseStudy": "editorialImage/image/url",
+                  "Promotion": "editorialMedia/image/url",
+                  "MediaImage": "image/url",
+                  "Organization": "logo/url"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2ItnNpx7RuHBIBcjWJCh6F",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Label",
+            "required": false,
+            "type": "String",
+            "id": "label"
+          },
+          {
+            "name": "Url",
+            "required": false,
+            "type": "String",
+            "id": "url"
+          }
+        ],
+        "version": 3,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-11T22:11:54.513Z",
+        "updatedAt": "2026-08-14T20:48:23.549Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Default",
+      "description": "Default data assembly",
+      "parameters": {
+        "p_8k0d3SEL9q": {
+          "name": "Parameter 1",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "link",
+                "promotion"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "r_V3GMOzFfv9": {
+          "source": "Contentful:GraphQL",
+          "query": "query ($id: ID!) {\n  _node(id: $id) {\n    __typename\n    ... on Link {\n      externalTarget\n      label\n    }\n    ... on Promotion {\n      link {\n        externalTarget\n        label\n      }\n    }\n  }\n}",
+          "parameters": {
+            "id": "$parameters/p_8k0d3SEL9q"
+          }
+        }
+      },
+      "return": {
+        "url": {
+          "$from": {
+            "source": "$resolvers/r_V3GMOzFfv9/_node",
+            "select": {
+              "$on": {
+                "type": {
+                  "Link": "externalTarget",
+                  "Promotion": "link/externalTarget"
+                }
+              }
+            }
+          }
+        },
+        "label": {
+          "$from": {
+            "source": "$resolvers/r_V3GMOzFfv9/_node",
+            "select": {
+              "$on": {
+                "type": {
+                  "Link": "label",
+                  "Promotion": "link/label"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "text-from-blogpost",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Text",
+            "required": false,
+            "type": "String",
+            "id": "text"
+          }
+        ],
+        "version": 8,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-10T22:08:33.306Z",
+        "updatedAt": "2026-08-14T20:35:32.010Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "publishedAt": "2026-08-10T22:12:02.080Z",
+        "publishedVersion": 1,
+        "publishedCounter": 1,
+        "firstPublishedAt": "2026-08-10T22:12:02.080Z",
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Text from Blog Post",
+      "description": "Hydrates the Text component from a blog post title.",
+      "parameters": {
+        "blogPostId": {
+          "name": "Blog Post",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "blogPost"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "main": {
+          "source": "Contentful:GraphQL",
+          "query": "query ($id: ID!) {\n  _node(id: $id) {\n    __typename\n    ... on BlogPost {\n      title\n    }\n  }\n}",
+          "parameters": {
+            "id": "$parameters/blogPostId"
+          }
+        }
+      },
+      "return": {
+        "text": {
+          "$from": {
+            "source": "$resolvers/main/_node",
+            "select": "title"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "text-from-microcopy",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Text",
+            "required": false,
+            "type": "String",
+            "id": "text"
+          }
+        ],
+        "version": 8,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-10T22:08:26.245Z",
+        "updatedAt": "2026-08-14T20:35:31.099Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "publishedAt": "2026-08-10T22:11:58.098Z",
+        "publishedVersion": 1,
+        "publishedCounter": 1,
+        "firstPublishedAt": "2026-08-10T22:11:58.098Z",
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Text from Microcopy",
+      "description": "Hydrates the Text component from a microcopy entry value.",
+      "parameters": {
+        "microcopyId": {
+          "name": "Microcopy",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "microcopy"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "main": {
+          "source": "Contentful:GraphQL",
+          "query": "query ($id: ID!) {\n  _node(id: $id) {\n    __typename\n    ... on Microcopy {\n      value\n    }\n  }\n}",
+          "parameters": {
+            "id": "$parameters/microcopyId"
+          }
+        }
+      },
+      "return": {
+        "text": {
+          "$from": {
+            "source": "$resolvers/main/_node",
+            "select": {
+              "$on": {
+                "type": {
+                  "Microcopy": "value"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "text-from-casestudy",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Text",
+            "required": false,
+            "type": "String",
+            "id": "text"
+          }
+        ],
+        "version": 8,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-10T22:08:30.497Z",
+        "updatedAt": "2026-08-14T20:35:31.040Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "publishedAt": "2026-08-10T22:11:59.439Z",
+        "publishedVersion": 1,
+        "publishedCounter": 1,
+        "firstPublishedAt": "2026-08-10T22:11:59.439Z",
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Text from Case Study",
+      "description": "Hydrates the Text component from a case study title.",
+      "parameters": {
+        "caseStudyId": {
+          "name": "Case Study",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "caseStudy"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "main": {
+          "source": "Contentful:GraphQL",
+          "query": "query ($id: ID!) {\n  _node(id: $id) {\n    __typename\n    ... on CaseStudy {\n      title\n    }\n  }\n}",
+          "parameters": {
+            "id": "$parameters/caseStudyId"
+          }
+        }
+      },
+      "return": {
+        "text": {
+          "$from": {
+            "source": "$resolvers/main/_node",
+            "select": "title"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "text-from-promotion",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Text",
+            "required": false,
+            "type": "String",
+            "id": "text"
+          }
+        ],
+        "version": 8,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-10T22:08:32.158Z",
+        "updatedAt": "2026-08-14T20:35:31.027Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "publishedAt": "2026-08-10T22:12:00.796Z",
+        "publishedVersion": 1,
+        "publishedCounter": 1,
+        "firstPublishedAt": "2026-08-10T22:12:00.796Z",
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Text from Promotion",
+      "description": "Hydrates the Text component from a promotion name.",
+      "parameters": {
+        "promotionId": {
+          "name": "Promotion",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "promotion"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "main": {
+          "source": "Contentful:GraphQL",
+          "query": "query ($id: ID!) {\n  _node(id: $id) {\n    __typename\n    ... on Promotion {\n      name\n    }\n  }\n}",
+          "parameters": {
+            "id": "$parameters/promotionId"
+          }
+        }
+      },
+      "return": {
+        "text": {
+          "$from": {
+            "source": "$resolvers/main/_node",
+            "select": "name"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "text-from-organization",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Text",
+            "required": false,
+            "type": "String",
+            "id": "text"
+          }
+        ],
+        "version": 8,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-10T22:08:34.497Z",
+        "updatedAt": "2026-08-14T20:35:30.940Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "publishedAt": "2026-08-10T22:12:03.661Z",
+        "publishedVersion": 1,
+        "publishedCounter": 1,
+        "firstPublishedAt": "2026-08-10T22:12:03.661Z",
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Text from Organization",
+      "description": "Hydrates the Text component from an organization name.",
+      "parameters": {
+        "organizationId": {
+          "name": "Organization",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "organization"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "main": {
+          "source": "Contentful:GraphQL",
+          "query": "query ($id: ID!) {\n  _node(id: $id) {\n    __typename\n    ... on Organization {\n      name\n    }\n  }\n}",
+          "parameters": {
+            "id": "$parameters/organizationId"
+          }
+        }
+      },
+      "return": {
+        "text": {
+          "$from": {
+            "source": "$resolvers/main/_node",
+            "select": "name"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "button-from-link",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Label",
+            "required": false,
+            "type": "String",
+            "id": "label"
+          },
+          {
+            "name": "URL",
+            "required": false,
+            "type": "String",
+            "id": "url"
+          }
+        ],
+        "version": 2,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-10T22:08:38.071Z",
+        "updatedAt": "2026-08-10T22:12:10.870Z",
+        "publishedAt": "2026-08-10T22:12:10.889Z",
+        "publishedVersion": 1,
+        "publishedCounter": 1,
+        "firstPublishedAt": "2026-08-10T22:12:10.889Z",
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Button from Link",
+      "description": "Hydrates the Button component from a link entry (external target only).",
+      "parameters": {
+        "linkId": {
+          "name": "Link",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "link"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "main": {
+          "source": "Contentful:GraphQL",
+          "query": "query ($id: ID!) { _node(id: $id) { __typename ... on Link { label externalTarget } } }",
+          "parameters": {
+            "id": "$parameters/linkId"
+          }
+        }
+      },
+      "return": {
+        "url": {
+          "$from": {
+            "source": "$resolvers/main",
+            "select": "_node/externalTarget"
+          }
+        },
+        "label": {
+          "$from": {
+            "source": "$resolvers/main",
+            "select": "_node/label"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "image-from-organization",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Src",
+            "required": false,
+            "type": "String",
+            "id": "src"
+          },
+          {
+            "name": "Alt",
+            "required": false,
+            "type": "String",
+            "id": "alt"
+          }
+        ],
+        "version": 2,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-10T22:10:49.749Z",
+        "updatedAt": "2026-08-10T22:12:09.554Z",
+        "publishedAt": "2026-08-10T22:12:09.563Z",
+        "publishedVersion": 1,
+        "publishedCounter": 1,
+        "firstPublishedAt": "2026-08-10T22:12:09.563Z",
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Image from Organization Logo",
+      "description": "Hydrates the Image component from an organization logo asset.",
+      "parameters": {
+        "organizationId": {
+          "name": "Organization",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "organization"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "main": {
+          "source": "Contentful:GraphQL",
+          "query": "query ($id: ID!) { _node(id: $id) { __typename ... on Organization { logo { url title description } } } }",
+          "parameters": {
+            "id": "$parameters/organizationId"
+          }
+        }
+      },
+      "return": {
+        "alt": {
+          "$from": {
+            "source": "$resolvers/main",
+            "select": "_node/logo/title"
+          }
+        },
+        "src": {
+          "$from": {
+            "source": "$resolvers/main",
+            "select": "_node/logo/url"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "image-from-mediaimage",
+        "type": "DataAssembly",
+        "dataType": [
+          {
+            "name": "Src",
+            "required": true,
+            "type": "String",
+            "id": "src"
+          },
+          {
+            "name": "Alt",
+            "required": false,
+            "type": "String",
+            "id": "alt"
+          }
+        ],
+        "version": 2,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-02-end-state"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "createdAt": "2026-08-10T22:08:35.893Z",
+        "updatedAt": "2026-08-10T22:12:08.254Z",
+        "publishedAt": "2026-08-10T22:12:08.264Z",
+        "publishedVersion": 1,
+        "publishedCounter": 1,
+        "firstPublishedAt": "2026-08-10T22:12:08.264Z",
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "variant": "default"
+      },
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "name": "Image from Media Image",
+      "description": "Hydrates the Image component from a mediaImage entry.",
+      "parameters": {
+        "mediaImageId": {
+          "name": "Media Image",
+          "type": "ResourceLink",
+          "linkType": "Contentful:Entry",
+          "allowedResources": [
+            {
+              "type": "Contentful:Entry",
+              "source": "crn:contentful:::content:spaces/$self/environments/$self",
+              "allowedTypes": [
+                "mediaImage"
+              ]
+            }
+          ]
+        }
+      },
+      "resolvers": {
+        "main": {
+          "source": "Contentful:GraphQL",
+          "query": "query ($id: ID!) { _node(id: $id) { __typename ... on MediaImage { image { url } altText } } }",
+          "parameters": {
+            "id": "$parameters/mediaImageId"
+          }
+        }
+      },
+      "return": {
+        "alt": {
+          "$from": {
+            "source": "$resolvers/main",
+            "select": "_node/altText"
+          }
+        },
+        "src": {
+          "$from": {
+            "source": "$resolvers/main",
+            "select": "_node/image/url"
+          }
+        }
+      }
+    }
+  ],
+  "experienceFragments": [
+  ],
+  "experiences": [
   ]
 }

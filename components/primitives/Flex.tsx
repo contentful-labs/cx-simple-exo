@@ -24,7 +24,12 @@ export function Flex({
 
   return (
     <div
-      className="flex"
+      // Row: equal-width children that can shrink (min-w-0). Column: stack only.
+      className={
+        direction === "row"
+          ? "flex min-w-0 *:min-w-0 *:flex-1"
+          : "flex min-w-0"
+      }
       style={{
         flexDirection: direction,
         gap: space,

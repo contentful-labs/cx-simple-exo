@@ -22,7 +22,7 @@ export function Image({
     <img
       src={src}
       alt={alt}
-      className="block max-w-full h-auto"
+      className="block h-auto min-w-0 max-w-full"
       style={{
         borderRadius: borderRadius(radius),
         maxWidth,
