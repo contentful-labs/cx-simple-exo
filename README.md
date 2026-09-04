@@ -118,3 +118,46 @@ directly from Contentful entries rather than through an Experience.
 `app/[locale]/[id]/layout.tsx` reads `draftMode()` and passes it to
 `SiteHeader`, which shows a banner and an "Exit draft mode" button whenever
 Draft Mode is on.
+
+
+## Cheatsheet
+Providing some code snippets for easy copy/paste while going through hand ons training. 
+
+**Preview URL**
+`http://localhost:3000/api/draft/enable?secret=this-is-a-secret&locale={locale}&id={experience.sys.id}`
+
+**Experience Fetching**
+```
+const experience = await fetchExperience(
+    {
+      spaceId: process.env.SPACE_ID!,
+      environmentId: process.env.ENVIRONMENT_ID!,
+      experienceId: id,
+      locale,
+    },
+    {
+      accessToken: process.env.CDA_TOKEN!,
+      previewToken: process.env.CPA_TOKEN,
+      preview,
+    },
+    { config: experienceConfig, debug: preview },
+  );
+
+  if (!experience) notFound();
+```
+
+**Experience Rendering**
+`<ServerExperienceRenderer experience={experience} config={experienceConfig} debug={preview} />`
+
+**Experience Config**
+```
+export const experienceConfig: Config = {
+  components: {
+    Button,
+    Text,
+    Flex,
+    Image,
+  },
+  resolveToken: resolveDesignToken,
+};
+```
