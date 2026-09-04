@@ -9276,5 +9276,909 @@
         }
       }
     }
+  ],
+  "designTokens": [
+    {
+      "sys": {
+        "id": "text.xl",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:45.600Z",
+        "updatedAt": "2026-08-10T21:58:45.600Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "text.xl",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "text.sm",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:45.231Z",
+        "updatedAt": "2026-08-10T21:58:45.231Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "text.sm",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "text.md",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:44.861Z",
+        "updatedAt": "2026-08-10T21:58:44.861Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "text.md",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "text.lg",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:44.477Z",
+        "updatedAt": "2026-08-10T21:58:44.477Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "text.lg",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "spacing.xs",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:44.083Z",
+        "updatedAt": "2026-08-10T21:58:44.083Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "spacing.xs",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "spacing.xl",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:43.727Z",
+        "updatedAt": "2026-08-10T21:58:43.727Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "spacing.xl",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "spacing.sm",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:43.395Z",
+        "updatedAt": "2026-08-10T21:58:43.395Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "spacing.sm",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "spacing.md",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:43.065Z",
+        "updatedAt": "2026-08-10T21:58:43.065Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "spacing.md",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "spacing.lg",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:42.729Z",
+        "updatedAt": "2026-08-10T21:58:42.729Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "spacing.lg",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "radius.sm",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:42.395Z",
+        "updatedAt": "2026-08-10T21:58:42.395Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "radius.sm",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "radius.md",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:42.056Z",
+        "updatedAt": "2026-08-10T21:58:42.056Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "radius.md",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "radius.lg",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:41.669Z",
+        "updatedAt": "2026-08-10T21:58:41.669Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "radius.lg",
+      "type": "DTCG.Dimension",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.tertiaryForeground",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:41.297Z",
+        "updatedAt": "2026-08-10T21:58:41.297Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.tertiaryForeground",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.tertiary",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:40.938Z",
+        "updatedAt": "2026-08-10T21:58:40.938Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.tertiary",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.secondaryForeground",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:40.580Z",
+        "updatedAt": "2026-08-10T21:58:40.580Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.secondaryForeground",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.secondary",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:40.201Z",
+        "updatedAt": "2026-08-10T21:58:40.201Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.secondary",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.primaryForeground",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:39.822Z",
+        "updatedAt": "2026-08-10T21:58:39.822Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.primaryForeground",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.primary",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:39.436Z",
+        "updatedAt": "2026-08-10T21:58:39.436Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.primary",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.muted",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:39.030Z",
+        "updatedAt": "2026-08-10T21:58:39.030Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.muted",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.foreground",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:38.051Z",
+        "updatedAt": "2026-08-10T21:58:38.051Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.foreground",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.border",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:37.580Z",
+        "updatedAt": "2026-08-10T21:58:37.580Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.border",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    },
+    {
+      "sys": {
+        "id": "color.background",
+        "type": "DesignToken",
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "l1u7eepsyltr"
+          }
+        },
+        "environment": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Environment",
+            "id": "step-00-setup"
+          }
+        },
+        "createdAt": "2026-08-10T21:58:36.931Z",
+        "updatedAt": "2026-08-10T21:58:36.931Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4TufL3NRElci5VhmPhD3P6"
+          }
+        },
+        "version": 2
+      },
+      "name": "color.background",
+      "type": "DTCG.Color",
+      "metadata": {
+      }
+    }
   ]
 }
