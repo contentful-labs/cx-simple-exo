@@ -28,6 +28,11 @@ Fill in `.env.local`:
 | `CPA_TOKEN` | Content Preview API access token, used when Draft Mode is on |
 | `DRAFT_MODE_SECRET` | Secret required to turn on Draft Mode (pick any string) |
 
+Import the content and content model
+Make sure yout have empty space with admin access
+```bash
+contentful space import --space-id={SPACE_ID} --environment-id=master --content-file=content-exports/step-00-setup.json
+```
 ## Routes
 
 - `/[locale]/[id]` — renders the Experience with id `id` in locale `locale`,
